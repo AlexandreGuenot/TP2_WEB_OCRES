@@ -1,5 +1,4 @@
 
-
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
@@ -51,7 +50,7 @@ header .user a {
 }
 @media (max-width: 767px) {
     .hidden-xs {
-      display: none !important;
+      display: none ;
     }
   }
 
